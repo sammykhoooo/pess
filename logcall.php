@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Police Emergency Service System</title>
+<title>Police EmergencY Service System</title>
 <link rel="stylesheet" href="pess_style.css">
 <?php // import nav.php
 require_once 'nav.php';
